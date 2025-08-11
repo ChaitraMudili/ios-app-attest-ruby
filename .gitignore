@@ -1,0 +1,17 @@
+/.bundle/
+/.yardoc
+/_yardoc/
+/coverage/
+/doc/
+/pkg/
+/spec/reports/
+/tmp/
+*.gem
+*.rbc
+.rspec_status
+Gemfile.lock
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
